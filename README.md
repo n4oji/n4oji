@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, sou o Naoji, estou trabalhando atualmente como estagiário em uma equipe de Creative Tech. 
+  Olá, sou o Naoji, estou trabalhando atualmente como desenvolvedor Back-End em uma equipe Creative Tech da FCB Brasil. 
   Atualmente estou cursando bacharelado de ciências e tecnologias na UFABC.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, Django, Docker, HTML5, CSS3, JS.</strong>
+  🦄 Linguagens: <strong>Python, Django, Docker, Docker-Compose.</strong>
 </p>
 
 <p align="left">
