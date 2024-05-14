@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, sou o Naoji, estou trabalhando atualmente como desenvolvedor Back-End em uma equipe Creative Tech da FCB Brasil. 
-  Atualmente estou cursando bacharelado de ciências e tecnologias na UFABC.
+  Olá, sou o Naoji, sou desenvolvedor Back-End em busca de um novo emprego.
+  Formado em bacharelado de ciências e tecnologias pela UFABC.
 </p>
 
 <p align="left">
