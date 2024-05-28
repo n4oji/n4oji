@@ -29,3 +29,5 @@
   <a href="https://www.instagram.com/naoji_okamoto/" alt="Instagram">
   <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" style="width:3%"></a>
 </p>  
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M6YN02G)
